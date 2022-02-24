@@ -1,0 +1,6 @@
+/*Con estas dos lineas de codigo alinearemos la posicion de lso textos mostrados en las vistas*/
+th,
+td {
+    text-align: center;
+    vertical-align: middle;
+}
